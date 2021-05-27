@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE SaleDetalls SYSTEM "D:\Ky-2\XML\src\SS2\modul3\SalesDetails_dtd.dtd">
+<SaleDetails>
+    <Sale>
+        <BillNumber>4568</BillNumber>
+        <Date>23/02/2007</Date>
+        <Branch>Hamp shire</Branch>
+        <Item>
+            <Number>1</Number>
+            <Name Category="Apparel">&LS;</Name>
+            <Code>2323</Code>
+            <Quantity> 1</Quantity>
+            <Price>200</Price>
+            <Discount>10</Discount>
+            <Total>180</Total>
+        </Item>
+        <Payment Mode="Card">
+            <CardName Type="Credit">&IC;</CardName>
+            <CustomerName>Allan</CustomerName>
+            <CardNumber>99044993</CardNumber>
+            <AccountNumber>77688906</AccountNumber>
+            <GrandTotal>180</GrandTotal>
+        </Payment>
+    </Sale>
+</SaleDetails>

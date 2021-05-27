@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://www.electionservay.com"
+           xmlns="http://www.electionservay.com"
+           elementFormDefault="qualified">
+            <xs:element name="VoterDeails">
+            <xs:complexType>
+                <xs:sequense>
+                    <xs:element name="VoterName" type="xs:string">
+                    <xs:element name="Gender" type="xs:string">
+                    <xs:element name="Age" type="xs:integer">
+                    <xs:element name="DateOfBirth" type="xs:date">
+                    <xs:element name="Profession" type="xs:string">
+                    <xs:element name="PhoneNumber" type="xs:long">
+                    <xs:element name="Address" type="xs:string">
+                    <xs:element name="City" type="xs:string">
+                    <xs:element name="State" type="xs:string">
+                </xs:sequense>
+            </xs:complexType>
+            </xs:element>
+</xs:schema>
