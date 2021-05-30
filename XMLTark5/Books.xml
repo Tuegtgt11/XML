@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="Rule.css"?>
+<books>
+    <heading>Welcome To CodeLean.vn</heading>
+    <book>
+        <title>Title -: Wrb Programming</title>
+        <author>Author -: Minh012</author>
+        <publisher>Publisher -: Wiley</publisher>
+        <edition>Edition -: 3</edition>
+        <price>Price -: 300</price>vnd
+    </book>
+    <book>
+        <title>Title -: Internet world-wide-wed</title>
+        <author>Author -: Pham Minh</author>
+        <publisher>Publisher -: Pearson</publisher>
+        <edition>Edition -: 3</edition>
+        <price>Price -: 400</price>vnd
+    </book>
+    <book>
+        <title>Title -: Computer Networks</title>
+        <author>Author -: Bill</author>
+        <publisher>Publisher -: MC Graw Hill</publisher>
+        <edition>Edition -: 5</edition>
+        <price>Price -: 700</price>vnd
+    </book>
+    <book>
+        <title>Title -: DBMS Concepts</title>
+        <author>Author -: Gates</author>
+        <publisher>Publisher -: Oxford</publisher>
+        <edition>Edition -: 5</edition>
+        <price>Price -: 700</price>vnd
+    </book>
+    <book>
+        <title>Title -: Linux programming</title>
+        <author>Author -: Steve Jobs</author>
+        <publisher>Publisher -: Oxford</publisher>
+        <edition>Edition -: 8</edition>
+        <price>Price -: 300</price>vnd
+    </book>
+
+</books>

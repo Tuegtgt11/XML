@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="Book_stylesheet.xsl"?>
+
+
+<!--
+    Document    :boook.xml
+    Author      :vincent
+    Description :
+        XML Document to store the details of a book.
+-->
+<Book>
+    <ISBN>101-45979-9-98</ISBN>
+    <Title>David's XML Bible</Title>
+
+    <Author>
+        <FirstName>David</FirstName>
+        <LastName>Blake</LastName>
+    </Author>
+
+    <Chapters>
+        <Preface>
+            <Name>Working with XSLT</Name>
+            <Number>3</Number>
+            <Pages>40</Pages>
+        </Preface>
+    </Chapters>
+
+    <Chapters>
+        <Preface>
+            <Name>Sorting on XSLT</Name>
+            <Number>4</Number>
+            <Pages>4</Pages>
+        </Preface>
+    </Chapters>
+
+    <Chapters>
+        <Preface>
+            <Name>More in XSLT</Name>
+            <Number>2</Number>
+            <Pages>50</Pages>
+        </Preface>
+    </Chapters>
+
+    <Chapters>
+        <Preface>
+            <Name>XPath in XSL</Name>
+            <Number>5</Number>
+            <Pages>10</Pages>
+        </Preface>
+    </Chapters>
+
+    <Chapters>
+        <Preface>
+            <Name>XSL - Formatting Objects</Name>
+            <Number>1</Number>
+            <Pages>25</Pages>
+        </Preface>
+    </Chapters>
+</Book>

@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes" ?>
+<!--
+    Document    :Book.xml
+    Author      :vincent
+    Description :
+        Style sheet file that is used to transform the Book.xml document.
+-->
+<?xml-stylesheet type="text/xsl" href="document.css"?>
+<document>
+    <title class="standout">The Discourses</title>
+    <philosopher class="standout">Epictetus</philosopher>
+    <book>Book Four</book>
+    <paragraph class="first">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid consectetur consequatur expedita id itaque. Exercitationem facilis porro rerum tempora ullam! Impedit magni omnis qui recusandae. Consequuntur deserunt iste maxime quam.
+    </paragraph>
+    <paragraph>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur dignissimos ea quisquam ullam? Iste, sit, veniam? Accusantium atque, eum inventore ipsum magnam nam, natus nihil nulla perferendis placeat sed sunt.
+    </paragraph>
+</document>
